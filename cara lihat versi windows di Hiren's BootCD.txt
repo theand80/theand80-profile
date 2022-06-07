@@ -1,0 +1,22 @@
+
+-copy File "SOFTWARE" yang ada di "C:\Windows\System32\config\ ke "Desktop"
+-buka Regedit
+-klik "HKEY_USERS" sekali (karna akan jadi folder disana)
+-klik File, Load Hive, cari file dengan nama "SOFTWARE" tadi di "Desktop" lalu Open
+-akan diminta masukan key name(nama foldernya) isi sembarang ex:theand
+-di Key yg baru, buka Microsoft, Windows NT, CurrentVersion
+-disebelah kanan akan ada "ProductName", itulah nama windowsnya
+-pada "BuildLabEx" sebelum tulisan "fre" itu adalah bit nya
+
+
+
+-------------------------------------------------------
+C:\Windows\System32\kernel32.dll
+
+klik kanan, properties, details
+
+6.1xxx => w7
+6.2xxx => w8.0
+6.3xxx => w8.1
+10.xxx => w10
+

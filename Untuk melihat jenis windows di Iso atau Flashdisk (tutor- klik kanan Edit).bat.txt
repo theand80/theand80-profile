@@ -1,0 +1,11 @@
+DISM /Get-WimInfo /WimFile:F:\sources\install.wim /index:1
+pause
+
+
+::DISM /Get-WimInfo /WimFile:F:\sources\install.wim /index:1
+::Harus Run Administrator
+::Ubah F jika beda
+::cek dulu "install".wim atau "install.esd"
+::jika ISO AIO index 1 diubah sesuai keinginan yg ingin di cek
+::  untuk cek daftar AIO ketik sampai
+::  "DISM /Get-WimInfo /WimFile:F:\sources\install.wim" saja

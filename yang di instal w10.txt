@@ -1,0 +1,28 @@
+disable update store
+disable Xbox
+apps uninstal
+chrome
+update
+Visual C++
+net framework
+directX
+winrar
+player vlc
+create sistem restore
+kmspico
+akun microsoft
+instal driver yg kurang (vga, bluetooth, wifi)
+use smai licon dekstop n taskbar
+hilangkan history : Di Properties Taskbar
+service
+-windowsupdate
+-xbox
+msconfig
+
+disable Update w 10
+>>Services-> windows Update -> disable
+>>gpedit.msd->Computer Configuration->Admitistrative Templates->
+  Windows Components->Windows Update->Configure Automatic Updates->Disabled
+>>Setting->Update & Security->Advanced Options->Choose how updates are delivered->matikan
+>>Store->setting->matikan Update apps automatically
+
